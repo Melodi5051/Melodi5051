@@ -43,5 +43,8 @@
     </div>
   </div>
   <h2>:fire: My Stats </h2>
-
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melodi5051&layout=compact&theme=dark)](https://github.com/Melodi5051/github-readme-stats)
+
+
