@@ -15,5 +15,5 @@
 </div>
 <hr>
 <div align="center">
-  ### :loudspeaker: About Me :
+  :loudspeaker: About Me :
 </div>
