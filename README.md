@@ -15,8 +15,8 @@
 </div>
 <hr>
 <div align="start">
-  :loudspeaker: About Me :
+  ### :loudspeaker: About Me :
 </div>
-<div align="center">
+<div align="center" >
   
 </div>
