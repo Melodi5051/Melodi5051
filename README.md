@@ -8,4 +8,5 @@
        <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Melodi5051&style=flat-square&color=blue" alt=""/>
 </div>
