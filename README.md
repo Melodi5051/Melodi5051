@@ -7,6 +7,9 @@
     <a href="https://www.twitch.tv/4apxnb4">
        <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
     </a>
+    <a href="https://t.me/zzzz7071">
+       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Melodi5051&style=flat-square&color=blue" alt=""/>
 </div>
