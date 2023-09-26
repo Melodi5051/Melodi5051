@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif" width="400"/>
+  <img src="https://pa1.aminoapps.com/7800/b5e32695c564d659dc9209d0b6ece981e5a202f5r1-640-360_hq.gif" width="400"/>
 
 <div id="badges">
   <a href="https://vk.com/to4ka1337">
