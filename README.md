@@ -14,6 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=Melodi5051&style=flat-square&color=blue" alt=""/>
 </div>
 <hr>
-<div align="center">
+<div align="start">
   :loudspeaker: About Me :
+</div>
+<div align="center">
+  
 </div>
