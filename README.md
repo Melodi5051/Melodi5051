@@ -44,7 +44,20 @@
   </div>
   <h2>:fire: My Stats </h2>
 </div>
+<table border="2">
+<tr>
+  <td>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melodi5051&layout=compact&theme=dark)](https://github.com/Melodi5051/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melodi5051&layout=compact&theme=dark)](https://github.com/Melodi5051/github-readme-stats)
+  </td>
+  <td>
 
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Melodi5051&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+    
+  </td>
+  
+</tr>
+</table>
 
