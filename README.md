@@ -4,7 +4,7 @@
     <a href="https://vk.com/to4ka1337">
        <img src="https://img.shields.io/badge/vk.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk.com"/>
     </a>
-    <a href="https://www.twitch.tv/4apxnb4">
+    <a href="https://www.twitch.tv/melodi5051">
        <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
     </a>
     <a href="https://t.me/zzzz7071">
